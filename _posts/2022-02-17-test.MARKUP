@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Hello.  Can I write math?"
-
+math_engine: mathjax
 ---
 
 # Header
 **Italics?**, can I write math here?
+
+
